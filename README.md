@@ -2,7 +2,7 @@
 
 clone the repo
 
-to run server
+to run server\
     - cd employee-back\
     - npm i\
     - npm run server
