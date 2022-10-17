@@ -1,0 +1,17 @@
+.header {
+    border: 3px solid blue;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.arrow{
+    padding-right: 20px; 
+    padding-left: 10px; 
+    font-size: 20px; 
+    font-weight: 800; 
+    cursor: pointer;
+}
+.header-title{
+    padding: 12px 5px;
+     font-size: 18px;
+}

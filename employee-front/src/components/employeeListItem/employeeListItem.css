@@ -1,0 +1,14 @@
+.emp-list-item {
+    display: flex;
+    cursor: pointer;
+    border: #c30011 solid 3px;
+    margin-top: 2px;
+    padding: 4px
+}
+.emp-item-content{
+    place-self: center;
+     padding-left: 20px 
+}
+.emp-item-img{
+    border-radius: 50%
+}

@@ -1,0 +1,7 @@
+.emp-list {
+    border: 1px solid gainsboro;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
